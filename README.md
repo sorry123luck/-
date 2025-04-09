@@ -27,3 +27,38 @@ C盘下载东西多了做了一个转移和整理的小工具，并且集合了�
 ---
 
 欢迎反馈使用建议或提出功能需求 🙌
+
+# 📂 File Mover v2.0
+
+A lightweight and practical file transfer and organization tool for Windows, designed for users who frequently download content and need to organize or relocate files efficiently.
+
+---
+
+## ✨ Features
+
+- 📁 Monitor a source folder and move files in real time to the target directory
+- 🧠 Multithreaded transfer with file stability checking and retry mechanism
+- 📦 Organize files by category: Videos, Documents, Images, Archives, Audio, Folders
+- 📂 Supports folder structure preservation when moving
+- 🖱️ Optional Windows right-click menu for quick operations
+- 🚀 Built-in preview mode to simulate file organization
+- 🧾 Logs activity to `Documents/文件转移工具日志/file_mover.log`
+- 🧮 Supports both Chinese and English folder naming
+- 📦 Includes Inno Setup script to generate installer
+
+---
+
+## 📥 Installation
+
+1. Download the latest release from [Releases](https://github.com/yourname/yourrepo/releases)
+2. Run `FileMover_文件转移工具_v2.0.exe` to install
+3. Optionally, use the batch scripts to register context menus
+
+---
+
+## 🖱️ Context Menu (Right-click) Setup
+
+To add right-click support:
+
+```bash
+register_context_menu.bat
