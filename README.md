@@ -56,7 +56,7 @@ A lightweight and practical file transfer and organization tool for Windows, des
 
 ## 📥 Installation
 
-1. Download the latest release from [Releases](https://github.com/yourname/yourrepo/releases)
+1. Download the latest release from [Releases](https://github.com/sorry123luck/-/releases/tag/v2.0))
 2. Run `FileMover_文件转移工具_v2.0.exe` to install
 3. Optionally, use the batch scripts to register context menus
 
@@ -68,3 +68,4 @@ To add right-click support:
 
 ```bash
 register_context_menu.bat
+unregister_context_menu.bat
