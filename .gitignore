@@ -172,3 +172,17 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# === Custom: File Mover 项目专属 ===
+
+# Inno Setup installer output
+*.exe
+*.rar
+*.iss.bak
+
+# Logs
+*.log
+文件转移工具日志/
+
+# Icon cache or temp
+icons/__pycache__/
