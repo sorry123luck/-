@@ -3,6 +3,12 @@ C盘下载东西多了做了一个转移和整理的小工具，并且集合了�
 
 文件转移工具 v2.0（完整版）
 
+![image](https://github.com/user-attachments/assets/d6fa12ff-7262-40ec-b896-80af42bcee3a)
+![image](https://github.com/user-attachments/assets/4aeee0df-5d92-438a-86ef-221773dae936)![image](https://github.com/user-attachments/assets/6aa67195-e651-41b4-828a-19a9a873b02f)
+![image](https://github.com/user-attachments/assets/9a5706e8-920a-4720-a8dd-45ba870a37b8)![image](https://github.com/user-attachments/assets/4fb0adef-5bfe-46b7-aba9-63a143390597)
+
+
+
 ✅ 功能说明：
 - 支持自动监控指定源文件夹，实时同步新增文件/文件夹；
 - 支持文件分类整理（视频、图片、文档、音频、压缩包等）；
